@@ -1,5 +1,5 @@
 /*
- * Test the use of the Color method
+ * Patrick Roach proach@wisc.edu proach
  */
 import java.util.*;
 

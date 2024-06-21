@@ -1,5 +1,5 @@
 /*
- *	Color class
+ *	Patrick Roach proach@wisc.edu proach
  */
 public class Color{
 	private String color;
